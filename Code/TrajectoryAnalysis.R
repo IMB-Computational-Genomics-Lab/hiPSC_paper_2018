@@ -1,4 +1,4 @@
-# This script runs two independent monocle2 and diffusion to compare results with
+# This script runs two independent analyses: monocle2 and diffusion to compare results with
 # the LTS between-cluster transition prediction
 
 library(monocle)

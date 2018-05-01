@@ -1,5 +1,5 @@
 # This script performs heterogeneity analysis
-# It uses expression matrix after sample to sample normalisation
+# It uses expression matrix after sample-to-sample normalisation
 
 library(edgeR)
 library(reshape2)

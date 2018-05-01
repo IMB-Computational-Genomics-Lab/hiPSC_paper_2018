@@ -2,8 +2,8 @@
 # mapped outputs (merged samples, already normalised
 # between samples by cellRanger subsampling procedure).
 # 1) It reports the quality, and filters cells and genes outliers
-# 2) It performs cell to cell normalisation
-#This script can be run automated on HPC
+# 2) It performs cell-to-cell normalisation
+#This script can be run automatically as a batch job on HPC
 
 argv <- commandArgs(TRUE)
 
